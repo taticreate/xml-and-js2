@@ -29,9 +29,9 @@
   <product>
     <productName>Dog Snuggle Basket</productName>
     <manufacturer>ACME$#153;</manufacturer>
-    <price>US&#36;14.25</price>
-    <price>CAD&#36;17.88</price>
-    <price>&#8364;10.61</price>
+    <price currency="USD">US&#36;14.25</price>
+    <price currency="CAD">CAD&#36;17.88</price>
+    <price currency="EUR">&#8364;10.61</price>
     <productItems>3230, 3232, 3250</productItems>
   </product>
 </products>
