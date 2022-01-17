@@ -6,7 +6,7 @@
     <description>Something for every day of the week</description>
     <price currency="USD">US&#36;35.99</price>
     <price currency="CAD">CAD&#36;44.99</price>
-    <price currency="EUR">&#8364;26.79</price>
+    <price currency="EURO">&#8364;26.79</price>
     <productItems>1200, 1201, 1202, 1203, 1204, 1205, 1206</productItems>
   </product>
   <product>
@@ -15,7 +15,7 @@
     <description>Playtime morning, noon, and night</description>
     <price currency="USD">US&#36;15.99</price>
     <price currency="CAD">CAD&#36;18.82</price>
-    <price currency="EUR">&#8364;11.90</price>
+    <price currency="EURO">&#8364;11.90</price>
     <productItems>4430, 6500, 4434</productItems>
   </product>
   <product>
@@ -23,7 +23,7 @@
     <manufacturer>ACME$#153;</manufacturer>
     <price currency="USD">US&#36;17.50</price>
     <price currency="CAD">CAD&#36;21.96</price>
-    <price currency="EUR">&#8364;13.03</price>
+    <price currency="EURO">&#8364;13.03</price>
     <productItems>3230, 3232</productItems>
   </product>
   <product>
@@ -31,7 +31,7 @@
     <manufacturer>ACME$#153;</manufacturer>
     <price currency="USD">US&#36;14.25</price>
     <price currency="CAD">CAD&#36;17.88</price>
-    <price currency="EUR">&#8364;10.61</price>
+    <price currency="EURO">&#8364;10.61</price>
     <productItems>3230, 3232, 3250</productItems>
   </product>
 </products>
