@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <businessCard>
   <name> Joe Marini </name>
-  <contactInfo>
+  <contactNumber>
   <number type="home"> +1 (415) 555-1234 </number>
   <number type="work"> +1 (800) 555-9867 </number>
   <number type="mobile"> +1 (510) 555-1212 </number>
-    <email>joe@joe.com</email>
-  </contactInfo>
+  </contactNumber>
+  <email>joe@joe.com</email>
 </businessCard>
