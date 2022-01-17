@@ -1,1 +1,30 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<allCards>
+  <businessCard type="Joe">
+    <name> Joe Marini </name>
+    <contactNumber>
+    <number type="home"> +1 (415) 555-1234 </number>
+    <number type="work"> +1 (800) 555-9867 </number>
+    <number type="mobile"> +1 (510) 555-1212 </number>
+    </contactNumber>
+    <email>joe@joe.com</email>
+  </businessCard>
+  <businessCard type="Tati">
+    <name> Tati Trofimchuk </name>
+    <contactNumber>
+    <number type="home"> +1 (415) 555-1234 </number>
+    <number type="work"> +1 (800) 555-9867 </number>
+    <number type="mobile"> +1 (510) 555-1212 </number>
+    </contactNumber>
+    <email>tati@tati.com</email>
+  </businessCard>
+  <businessCard type="Alex">
+    <name> Alex Jay </name>
+    <contactNumber>
+    <number type="home"> +1 (415) 555-1234 </number>
+    <number type="work"> +1 (800) 555-9867 </number>
+    <number type="mobile"> +1 (510) 555-1212 </number>
+    </contactNumber>
+    <email>alex@alex.com</email>
+  </businessCard>
+</allCards>
