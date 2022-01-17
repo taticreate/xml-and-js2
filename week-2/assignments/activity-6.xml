@@ -3,46 +3,54 @@
 <!DOCTYPE products 
 [
   <!ELEMENT products (customer+)>
-  <!ELEMENT product (productName, manufacturer, description, price, productItems)>
+  <!ELEMENT product (productName, manufacturer, description, prices+, productItems)>
   <!ELEMENT productName (#PCDATA)>
   <!ELEMENT manufacturer (#PCDATA)>
   <!ELEMENT description (#PCDATA)>
-  <!ELEMENT price (item+)>
-  <!ELEMENT productItems (order+)>
+  <!ELEMENT prices (price+)>
+  <!ELEMENT productItems (#PCDATA)>
 ]>
 <products>
   <product>
     <productName>Dog Shirt Gift Basket</productName>
     <manufacturer>SJB Pet Boutique</manufacturer>
     <description>Something for every day of the week</description>
+    <prices>
     <price>US$35.99</price>
     <price>CAD$44.99</price>
     <price>&#8364;26.79</price>
+    </prices>
     <productItems>1200, 1201, 1202, 1203, 1204, 1205, 1206</productItems>
   </product>
   <product>
     <productName>Car Curiosity Basket</productName>
     <manufacturer>SJB Pet Boutique</manufacturer>
     <description>Playtime morning, noon, and night</description>
+    <prices>
     <price>US$15.99</price>
     <price>CAD$18.82</price>
     <price>&#8364;11.90</price>
+    </prices>
     <productItems>4430, 6500, 4434</productItems>
   </product>
   <product>
     <productName>Piggy Snuggle Basket</productName>
     <manufacturer>ACME</manufacturer>
+    <prices>
     <price>US$17.50</price>
     <price>CAD$21.96</price>
     <price>&#8364;13.03</price>
+    </prices>
     <productItems>3230, 3232</productItems>
   </product>
   <product>
     <productName>Dog Snuggle Basket</productName>
     <manufacturer>ACME</manufacturer>
+    <prices>
     <price>US$14.25</price>
     <price>CAD$17.88</price>
     <price>&#8364;10.61</price>
+    </prices>
     <productItems>3230, 3232, 3250</productItems>
   </product>
 </products>
