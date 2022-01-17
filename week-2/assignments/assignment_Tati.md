@@ -1,6 +1,6 @@
 # Assignment 1
 
-1. Open `week-2/assignments/assignment.xml` in your browser. Are there any errors? Explain the error and fix it.
+1. Open `week-2/assignments/assignment.xml` in your browser. Are there any errors? Explain the error and fix it. ![image info](../assets/1.png)
 2. What is the use of CDATA block in this document?
 3. Add comment line to the end of file which contains you name and student id.
 4. Identify prolog, document body, and epilog in the document. Are there any processing instructions?
