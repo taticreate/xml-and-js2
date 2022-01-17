@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<!DOCTYPE customers 
+[
+  <!ELEMENT customers (customer+)>
+  <!ELEMENT customer (name, address, phone, email?, orders)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT address (#PCDATA)>
+  <!ELEMENT phone (#PCDATA)>
+  <!ELEMENT email (#PCDATA)>
+  <!ELEMENT orders (order+)>
+  <!ELEMENT order (orderDate, items)>
+  <!ELEMENT orderDate (#PCDATA)>
+  <!ELEMENT items (item+)>
+  <!ELEMENT item (itemPrice, itemQty)>
+  <!ELEMENT itemPrice (#PCDATA)>
+  <!ELEMENT itemQty (#PCDATA)>
+]>
 <products>
   <product>
     <productName>Dog Shirt Gift Basket</productName>
