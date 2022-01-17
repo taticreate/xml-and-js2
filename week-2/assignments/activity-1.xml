@@ -1,7 +1,10 @@
-
-## Joe Marini
-
-- +1 (415) 555-1234 (home)
-- +1 (800) 555-9867 (work)
-- +1 (510) 555-1212 (mobile)
-- joe@joe.com
+<?xml version="1.0" encoding="utf-8"?>
+<businessCard>
+  <name> Joe Marini </name>
+  <contactInfo>
+  <homeNumber> +1 (415) 555-1234 (home) </homeNumber>
+  <workNumber> +1 (800) 555-9867 (work) </workNumber>
+  <mobileNumber> +1 (510) 555-1212 (mobile)</mobileNumber>
+    <email>joe@joe.com</email>
+  </contactInfo>
+</businessCard>
