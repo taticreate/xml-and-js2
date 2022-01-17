@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/css" href="style.css"?>
 <!DOCTYPE products 
 [
-  <!ELEMENT products (customer+)>
-  <!ELEMENT product (productName, manufacturer, description, prices+, productItems)>
+  <!ELEMENT products (product+)>
+  <!ELEMENT product (productName, manufacturer, description, prices, price+, productItems)>
   <!ELEMENT productName (#PCDATA)>
   <!ELEMENT manufacturer (#PCDATA)>
   <!ELEMENT description (#PCDATA)>
