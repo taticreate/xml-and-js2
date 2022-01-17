@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <products>
   <product>
+    
+    <message>
+      <! [ CDATA [
+      For further information, please visit <our website> or call us on #905-111-2222 & +1-800-111- 2222
+      ]]>
+    </message>
+    
     <productName>Dog Shirt Gift Basket</productName>
     <manufacturer>SJB Pet Boutique$#153;</manufacturer>
     <description>Something for every day of the week</description>
@@ -10,6 +17,13 @@
     <productItems>1200, 1201, 1202, 1203, 1204, 1205, 1206</productItems>
   </product>
   <product>
+    
+    <message>
+      <! [ CDATA [
+      For further information, please visit <our website> or call us on #905-111-2222 & +1-800-111- 2222
+      ]]>
+    </message>
+      
     <productName>Car Curiosity Basket</productName>
     <manufacturer>SJB Pet Boutique$#153;</manufacturer>
     <description>Playtime morning, noon, and night</description>
@@ -19,6 +33,13 @@
     <productItems>4430, 6500, 4434</productItems>
   </product>
   <product>
+    
+    <message>
+      <! [ CDATA [
+      For further information, please visit <our website> or call us on #905-111-2222 & +1-800-111- 2222
+      ]]>
+    </message>
+      
     <productName>Piggy Snuggle Basket</productName>
     <manufacturer>ACME$#153;</manufacturer>
     <price currency="USD">US&#36;17.50</price>
@@ -27,6 +48,13 @@
     <productItems>3230, 3232</productItems>
   </product>
   <product>
+    
+    <message>
+      <! [ CDATA [
+      For further information, please visit <our website> or call us on #905-111-2222 & +1-800-111- 2222
+      ]]>
+    </message>
+      
     <productName>Dog Snuggle Basket</productName>
     <manufacturer>ACME$#153;</manufacturer>
     <price currency="USD">US&#36;14.25</price>
