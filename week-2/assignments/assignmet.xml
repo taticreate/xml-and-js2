@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <!-- Prolog -->
 <?xml-stylesheet type="text/css" href="style.css"?>
+
+<!DOCTYPE menuInfo [
+  <!ELEMENT menuInfo (title, summary, effectiveDate?, menu+)>
+  <!ELEMENT title (#PCDATA)>
+  <!ELEMENT summary (#PCDATA)>
+  <!ELEMENT effectiveDate (#PCDATA)>
+  <!ELEMENT menu (category, menuItem+)>
+  <!ELEMENT category (#PCDATA)>
+  <!ELEMENT menuItem (itemName, description, price, indicator*)>
+  <!ELEMENT itemName (originalName, oldName?)>
+  <!ELEMENT originalName (#PCDATA)>
+  <!ELEMENT indicator (#PCDATA)>
+  <!ELEMENT description (#PCDATA)>
+  <!ELEMENT oldName (#PCDATA)>
+  <!ELEMENT price (#PCDATA)>
+]>
 <!-- Document Body -->
 <menuInfo>
   <title>Chester's Breakfast Menu</title>
