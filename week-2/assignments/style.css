@@ -1,1 +1,13 @@
+originalName {
+    font-size:40px;
+  }
 
+category {
+  display: block;
+  
+}
+
+price {
+  color: green;
+  font-weight: bold;
+}
