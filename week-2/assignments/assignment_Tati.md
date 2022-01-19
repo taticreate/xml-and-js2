@@ -10,24 +10,24 @@ It is used to tell parser to interpret the data as character data, not markup as
 ![image info](assets/2.png)
 
 </br></br></br>
-3. Add comment line to the end of file which contains you name and student id.</br>
+3. Add comment line to the end of file which contains you name and student id.</br></br>
 ![image info](assets/3.png)
 
 </br></br></br>
-4. Identify prolog, document body, and epilog in the document. Are there any processing instructions?</br>
+4. Identify prolog, document body, and epilog in the document. Are there any processing instructions?</br></br>
 ![image info](assets/4.png)
 ![image info](assets/5.png)
 
 </br></br></br>
-5. Add inline DTD for this document.</br>
+5. Add inline DTD for this document.</br></br>
 ![image info](assets/6.png)
 
 </br></br></br>
-6. Verify that file is well-formed and valid.</br>
+6. Verify that file is well-formed and valid.</br></br>
 ![image info](assets/7.png)
 
 </br></br></br>
-7. Create `style.css` file and link it to the file. Add the following styles to the .css:</br>
+7. Create `style.css` file and link it to the file. Add the following styles to the .css:</br></br>
 ![image info](assets/8.png)
 - Change font-size of `originalName`
 - Display each `category` on the new line
